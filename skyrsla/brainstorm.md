@@ -1,3 +1,30 @@
 ## Hugflæði (Brainstorm)
-Hér skráið þið allar hugmyndir um verkefni sem þið fáið, munið að engin hugmynd er vitlaus.  
-Þegar þið eruð komin með 10 eða fleiri hugmyndir skulið þið velja þá sem ykkur líst best á. 
+
+Hugmynd 1:
+Forklift // Lyftari
+
+Taka upp box.
+Setja oná annað box. Stacking
+Vita að taka bara x lit box en ekki y lit box.
+
+Hugmynd 2:
+Car // Bíll
+
+Automatic line traveling with a curve.
+Automatic collision detection.   // SELECTED!
+Drive forwards without crashing.
+
+Hugmynd 3:
+
+Clawbot // Last resort
+
+Öll verkefni í ROB 1
+
+Hugmynd 4:
+
+
+
+
+
+
+
