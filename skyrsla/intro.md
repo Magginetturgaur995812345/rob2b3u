@@ -1,8 +1,3 @@
-## Inngangur
-Hér skal gera lýsingu á verkefninu þ.e hvað,  hvernig og  hvaða forritunarmál, fyrir hverja og hvaða notagildi verkefnið hefur. 
-Minnst 500 orð. Notagildi skiptir miklumáli, reynið að sjá fyrir ykkur hverjir geti notað vélmennið ykkar og í hvaða tilgangi.  
-Þá kemur í ljós að 500 orð er frekar lítið :-) Hér er gott að byrja á því að lesa til um Arduino,Rasberry PI, V5 EDR eða VEX EDR en allt hjá þeim er open-sourse eða næstum því :-(
-og svo er hægt að lesa sér til um efnið í útgefnum bókum sem "programming Arduino" Hér er gott að lýsa högun kerfisins með orðum og
-mynd sem þið getið gert í draw.io sjá mynd:  ATH!! muna að setja ykkar eigin texta hér og taka minn út. Það að vinna sjálfstætt er algjör nauðsyn þ.e þið finnið mismunandi leiðir til að leysa verkefnið og ekki víst að kennari hafi lausnir á öllu þó góður sé.
-Myndin er af högun kerfis sem ég gerði fyrir arduino, ekki nota hana, hannið ykkar eigin högun.
-![Mynd af högun kerfis](https://github.com/eirben/rob2b3u/blob/master/skyrsla/img/system.png)
+
+### Lýsing á bíl
+Við ætlum að gera bíl og hann verður í byrjun keyrður með fjarsteringu. Hann verður byggður og forritaður með V5 kitti og kóðaður í C++. Hugmynd okkar að bíl verður í raun byrja að fá bíl með 4 FÖSTUM dekkjum síðan verður farið í að dekkin eiga að beygja til að beygja en ekki beygja með að láta eitt fast dekk beygja fyrir okkur, Næst verður bætt við stefnuljós þegar hann er að beygja svo verður farið í "Collition Detection" og hvernig er hægt að fá marga skynjara til að passa uppá að hann klessi ekki á. Svo verður farið í hvernig hann getur keyrt eftir línu með 15 gráðu beygju síðan 30,40 og að lokum 60. Næst verður að finna eitthvað rautt,blátt eða grænt og stoppa við það og hvernig það mun virka. (FIRST REVISION)
