@@ -1,4 +1,2 @@
-14/12/2016
-Bjó til dagbók og uppfærði skýrslu
-12/01/2018
-Lagaði skýrslu sniðið
+27/08/2018
+Fiktuðum aðeins og sköpun vélmenni, skifuðum í intro.md og skoðuðum VexV5 code text.
