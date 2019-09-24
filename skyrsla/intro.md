@@ -5,4 +5,4 @@ Hugmynd okkar að bíl verður í raun byrja að fá bíl með 4 föstum dekkjum
 
 Næst verður bætt við stefnuljós þegar hann er að beygja svo verður farið í "Collition Detection" og hvernig er hægt að fá marga skynjara til að passa uppá að hann klessi ekki á. Þetta er hægt með því að bæta við sónar skynjurum, við vitum ekki hversu marga við þurfum en við vitum að við þurfum að minnsta kosti 1 sem myndi fara fyrir framan. Hann verður með myndavél sem verður fyrir linetracking og mögulega að finna liti.
 
-Það verður farið í hvernig hann getur keyrt eftir línu með 15 gráðu beygju síðan 30,40 og að lokum 60. Næst verður að finna eitthvað rautt,blátt eða grænt og stoppa við það og hvernig það mun virka. Til að fá þessa útkomu þarf maður að nota myndavélina sem fylgjir v5 kittinu. (SECOND REVISION)
+Það verður farið í hvernig hann getur keyrt eftir línu með 15 gráðu beygju síðan 30,40 og að lokum 60. Næst verður að finna eitthvað rautt,blátt eða grænt og stoppa við það og hvernig það mun virka. Til að fá þessa útkomu þarf maður að nota myndavélina sem fylgjir v5 kittinu. 
